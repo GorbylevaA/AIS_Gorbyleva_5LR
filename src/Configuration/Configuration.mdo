@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="70d26caa-5e40-49f9-8ea2-759b1810215a">
+  <name>Конфигурация_Горбылева</name>
+  <synonym>
+    <key>ru</key>
+    <value>Конфигурация горбылева</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="1bf7c8ea-8322-4a93-9f33-6c0fbaa2f1f3"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="4b0fbfb1-52ac-4d3c-bb04-581c307b8a1b"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="d9848625-fac6-4ed4-a97f-00a5f8ae7625"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="d601620b-6b5b-4ff5-8d72-b7a334c39e42"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="fee5c2b4-b1c6-4f58-837b-b847566b5ca5"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="c678c241-4cc9-44ca-b169-70b46337bae4"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="99be75e7-3ed1-493a-a604-d6c8e6a787d6"/>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.22</compatibilityMode>
+  <languages uuid="1513cb89-41f5-443c-9f56-334287106f81">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <catalogs>Catalog.Справочник1</catalogs>
+  <documents>Document.Документ1</documents>
+  <accumulationRegisters>AccumulationRegister.РегистрНакопления1</accumulationRegisters>
+</mdclass:Configuration>
