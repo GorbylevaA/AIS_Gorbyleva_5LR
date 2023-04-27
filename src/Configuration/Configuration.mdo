@@ -39,6 +39,8 @@
     <languageCode>ru</languageCode>
   </languages>
   <catalogs>Catalog.Справочник1</catalogs>
+  <catalogs>Catalog.Справочник2</catalogs>
   <documents>Document.Документ1</documents>
   <accumulationRegisters>AccumulationRegister.РегистрНакопления1</accumulationRegisters>
+  <accumulationRegisters>AccumulationRegister.РегистрНакопления2</accumulationRegisters>
 </mdclass:Configuration>
